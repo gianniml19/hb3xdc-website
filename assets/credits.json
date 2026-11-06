@@ -1,0 +1,115 @@
+{
+  "credit": "Fotos: HB3XDC",
+  "permission": "Eigene Fotos von HB3XDC",
+  "photos": [
+    {
+      "file": "photos/IMG_1715.jpeg",
+      "title": "Mein Shack in Luzern"
+    },
+    {
+      "file": "photos/IMG_6925(1).jpeg",
+      "title": "Kompakte SDR-Technik mit Mini-PC"
+    },
+    {
+      "file": "photos/IMG_6923(1).jpeg",
+      "title": "X One Activ Dipol"
+    },
+    {
+      "file": "photos/IMG_1908.jpeg",
+      "title": "Wellbrook ALA1530 LN"
+    },
+    {
+      "file": "photos/BE40AD4D-DF27-4A28-8ED8-1FD4FB0E6590.jpeg",
+      "title": "Hari 80-m-Delta-Loop: Drahtführung von oben"
+    },
+    {
+      "file": "photos/IMG_1905.jpeg",
+      "title": "Einblick in den Technikschrank"
+    },
+    {
+      "file": "photos/IMG_1923.jpeg",
+      "title": "Mastantenne und Installation"
+    },
+    {
+      "file": "photos/perfugas.jpg",
+      "title": "Landschaft von Perfugas",
+      "source": "Vom Betreiber benanntes Bild aus seinem bestehenden Sardinien-SDR-Projekt"
+    }
+  ],
+  "screenshots": [
+    {
+      "file": "ubersdr-waterfall.png",
+      "title": "UberSDR-Weboberfläche von IS0-HB3XDC in Perfugas mit Spektrum und Wasserfall über 0 bis 30 MHz",
+      "credit": "Bildschirmaufnahme der eigenen Instanz IS0-HB3XDC · UberSDR v0.1.67 · 4. November 2026",
+      "source": "https://sardinia-sdr.ddns.net/v2/"
+    },
+    {
+      "file": "ubersdr-spectrogram-history.png",
+      "title": "Historisches UberSDR-Spektrogramm",
+      "credit": "Bildschirmaufnahme: HB3XDC"
+    },
+    {
+      "file": "maasbree-websdr.png",
+      "title": "WebSDR Maasbree Low: Wasserfall, S-Meter und LSB-Empfang auf 7,131 MHz im 40-m-Band",
+      "credit": "Screenshot: HB3XDC · Oberfläche: WebSDR Maasbree / PA3FWM. Gezeigt: 7,131 MHz, LSB, 40-m-Band. Momentaufnahme; kein Live-Status.",
+      "source": "http://sdr.websdrmaasbree.nl:8901/"
+    },
+    {
+      "file": "sdr-list-map.png",
+      "credit": "Screenshot: HB3XDC · sdr-list.xyz · Karte: © OpenStreetMap-Mitwirkende / Leaflet. Momentaufnahme."
+    },
+    {
+      "file": "rigexpert-menu.png",
+      "credit": "Bildschirmaufnahme aus meinem Archiv · RigExpert / AntScope2"
+    },
+    {
+      "file": "delta-loop-antscope.png",
+      "credit": "Bildschirmaufnahme aus meinem Archiv · RigExpert / AntScope2"
+    }
+  ],
+  "illustrations": [
+    {
+      "file": "ubersdr-signalweg.svg",
+      "credit": "Eigene technische Illustration für HB3XDC"
+    }
+  ],
+  "communityArticles": [
+    {
+      "file": "hamnet-karte.png",
+      "credit": "HAMNET-DB; Kartengrundlage OpenStreetMap-Mitwirkende. Screenshot aus dem HB3XDC-Archiv. Netz-Daten gemäss Lizenzangabe HAMNET-DB.",
+      "source": "https://hamnetdb.net/"
+    },
+    {
+      "file": "freedv-windows.png",
+      "credit": "FreeDV 2.4.0 Benutzeroberfläche. Screenshot von der FreeDV-Webseite (freedv.org).",
+      "source": "https://freedv.org/"
+    }
+  ],
+  "notfunk": {
+    "file": "notfunk-uska.png",
+    "credit": "Bildquelle: uska.ch",
+    "source": "https://uska.ch/de/funkamateure/notfunk/"
+  },
+  "finalArticleImages": [
+    {
+      "file": "ssb-waterfall.png",
+      "description": "Von HB3XDC ausgewählter Wasserfall-Screenshot für den SSB-Audio-Beitrag"
+    },
+    {
+      "file": "delta-loop-pe7k.png",
+      "description": "Von HB3XDC ausgewählte Illustration zum PE7K-Lesetipp; keine eigenen Messdaten",
+      "context": "https://www.qrz.com/db/PE7K"
+    }
+  ],
+  "meshcore": {
+    "file": "assets/meshcore-netzwerk.png",
+    "source": "https://notfunknetzwerk.web-sdr.ch/",
+    "description": "Vom Seiteninhaber für den Projektbericht ausgewählte Grafik. Keine eigene Fotografie."
+  },
+  "modulation": {
+    "description": "Eigene schematische SVG-Zeichnungen: AM, FM, CW sowie AM-/USB-Spektrum."
+  },
+  "knowledgeDiagrams": {
+    "description": "Eigene SVG-Schemata, Leistungsbalken und Ablaufgrafiken für zwölf weitere Wissenskapitel; idealisierte Lehrdarstellungen, keine Stationsmessungen."
+  }
+}
